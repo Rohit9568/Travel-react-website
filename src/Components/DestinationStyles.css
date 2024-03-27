@@ -6,6 +6,10 @@
     font-size: 3rem;
 
 }
+.destination p {
+      font-weight: 400;
+}
+
 .first-des{
     display: flex;
     align-items: center;
@@ -32,6 +36,8 @@
     padding-bottom: 1rem ;
 
 }
+des-text p{
+    font-weight: 400;}
 
 .image {
     position: relative;
